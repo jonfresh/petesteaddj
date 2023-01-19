@@ -19,4 +19,5 @@ function u_enqueue() {
     wp_enqueue_style('u_font_rubik_and_pacifico');
     wp_enqueue_style('u_bootstrap_icons');
     wp_enqueue_style('u_theme');
+
 }
