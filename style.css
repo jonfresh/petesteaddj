@@ -8,3 +8,7 @@ Tested up to: 6.1.1
 Requires PHP: 8.0
 Text domain: Pete Stead DJ
 */
+
+p {
+    size: 10px !important;
+}
